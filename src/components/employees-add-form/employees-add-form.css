@@ -1,0 +1,17 @@
+.app-add-form {
+	margin: 30px 0 0 0;
+	padding: 25px;
+	background-color: #1a671a;
+	border-radius: 15px;
+	box-shadow: 15px 15px 30px rgba(5, 30, 8, 0.15);
+	color: #dbe6d7
+}
+
+.add-form {
+	margin: 20px 0 0 0;
+}
+
+.add-form input {
+	width:350px;
+	margin: 0 20px 0 0;
+}
